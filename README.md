@@ -1,2 +1,2 @@
 # hello-word
-just a  beginning of github trip
+linux is intresting!
